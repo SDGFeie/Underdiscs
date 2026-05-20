@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "underdiscs",
+	"version": "${version}",
+	"name": "Underdiscs",
+	"description": "A minecraft mod that adds all 101 Undertale songs to minecraft as craftable music discs.",
+	"authors": [
+		"SDGFeie",
+		"Shadow_Girl"
+	],
+	"contact": {
+		"sources": "https://github.com/SDGFeie/Underdiscs"
+	},
+	"license": "MIT",
+	"icon": "assets/underdiscs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.sdgfeie.underdiscs.Underdiscs"
+		],
+		"client":[
+			"net.sdgfeie.underdiscs.UnderdiscsClient"
+		]
+		"fabric-datagen": [
+			"net.sdgfeie.underdiscs.UnderdiscsDataGenerator"
+		]
+	},
+	"mixins": [
+		"underdiscs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
