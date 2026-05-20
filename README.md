@@ -62,7 +62,7 @@ All songs:
 | 055 | Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything | - | 054 |
 | 056 | Confession | White Tulip |  |
 | 057 | Live Report | Observer |  |
-| 058 | Death Report | - | 058 |
+| 058 | Death Report | - | 057 |
 | 059 | Spider Dance | Spider Eye |  |
 | 060 | Wrong Enemy !? | - | 009 |
 | 061 | Oh! One True Love | Amethyst Shard | 049 |
