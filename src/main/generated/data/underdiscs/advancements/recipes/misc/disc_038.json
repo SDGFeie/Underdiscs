@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_disc_010": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_010"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "underdiscs:disc_038"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_disc_010",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "underdiscs:disc_038"
+    ]
+  },
+  "sends_telemetry_event": false
+}

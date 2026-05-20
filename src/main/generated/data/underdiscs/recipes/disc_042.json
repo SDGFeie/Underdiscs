@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "underdiscs:disc_base"
+    },
+    {
+      "tag": "underdiscs:black_white_banner"
+    }
+  ],
+  "result": {
+    "item": "underdiscs:disc_042"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_disc_001": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_001"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_disc_071": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_071"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "underdiscs:disc_094"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_disc_071",
+      "has_disc_001",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "underdiscs:disc_094"
+    ]
+  },
+  "sends_telemetry_event": false
+}

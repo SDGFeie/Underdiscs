@@ -1,0 +1,100 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_disc_015": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_015"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_disc_016": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_016"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_disc_045": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_045"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_disc_048": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_048"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_disc_059": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_059"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_disc_085": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "underdiscs:disc_085"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "underdiscs:disc_086"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_disc_085",
+      "has_disc_015",
+      "has_disc_016",
+      "has_disc_045",
+      "has_disc_048",
+      "has_disc_059",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "underdiscs:disc_086"
+    ]
+  },
+  "sends_telemetry_event": false
+}

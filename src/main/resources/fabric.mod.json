@@ -20,7 +20,7 @@
 		],
 		"client":[
 			"net.sdgfeie.underdiscs.UnderdiscsClient"
-		]
+		],
 		"fabric-datagen": [
 			"net.sdgfeie.underdiscs.UnderdiscsDataGenerator"
 		]
