@@ -109,5 +109,6 @@ All songs:
 
 
 
-I am not affiliated or associated with Toby Fox.
-All tracks are composed by Toby "Radiation" Fox.
+Undertale and its soundtrack are owned by Toby Fox.
+This mod is a non-commercial fan project and is not affiliated with or endorsed by Toby Fox.
+I do not own the music assets included or referenced in this project.
