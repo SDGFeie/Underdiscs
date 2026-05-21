@@ -1,24 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_disc_075": {
+    "has_disc_base": {
       "conditions": {
         "items": [
           {
             "items": [
-              "underdiscs:disc_075"
-            ]
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "has_disc_090": {
-      "conditions": {
-        "items": [
-          {
-            "items": [
-              "underdiscs:disc_090"
+              "underdiscs:disc_base"
             ]
           }
         ]
@@ -34,8 +22,7 @@
   },
   "requirements": [
     [
-      "has_disc_075",
-      "has_disc_090",
+      "has_disc_base",
       "has_the_recipe"
     ]
   ],

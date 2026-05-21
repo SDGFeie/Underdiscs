@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "underdiscs:disc_016"
+        "recipe": "underdiscs:disc_030_alt"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "underdiscs:disc_016"
+      "underdiscs:disc_030_alt"
     ]
   },
   "sends_telemetry_event": false
