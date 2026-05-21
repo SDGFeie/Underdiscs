@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "underdiscs:disc_085"
+    },
+    {
+      "item": "underdiscs:disc_015"
+    },
+    {
+      "item": "underdiscs:disc_016"
+    },
+    {
+      "item": "underdiscs:disc_045"
+    },
+    {
+      "item": "underdiscs:disc_048"
+    },
+    {
+      "item": "underdiscs:disc_059"
+    }
+  ],
+  "result": {
+    "item": "underdiscs:disc_086"
+  }
+}

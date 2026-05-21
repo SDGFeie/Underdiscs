@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "underdiscs:disc_009"
+    },
+    {
+      "item": "minecraft:goat_horn"
+    }
+  ],
+  "result": {
+    "item": "underdiscs:disc_014"
+  }
+}

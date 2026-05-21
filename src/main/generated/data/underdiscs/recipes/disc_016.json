@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "underdiscs:disc_base"
+    },
+    {
+      "item": "minecraft:skeleton_skull"
+    },
+    {
+      "item": "farmersdelight:pasta_with_meatballs"
+    }
+  ],
+  "result": {
+    "item": "underdiscs:disc_016"
+  }
+}
