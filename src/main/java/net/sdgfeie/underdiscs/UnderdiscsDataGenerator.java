@@ -11,9 +11,9 @@ public class UnderdiscsDataGenerator implements DataGeneratorEntrypoint {
 	@Override
 	public void onInitializeDataGenerator(FabricDataGenerator fabricDataGenerator) {
         FabricDataGenerator.Pack pack = fabricDataGenerator.createPack();
-//        pack.addProvider(UDLangGen::new); Disabled because done
-//        pack.addProvider(UDRecipeGen::new); Disabled because done
-//        pack.addProvider(UDTagGen::new); Disabled because done
-//        pack.addProvider(UdModelGen::new); Disabled because done
+        pack.addProvider(UDLangGen::new);
+        pack.addProvider(UDRecipeGen::new);
+        pack.addProvider(UDTagGen::new);
+        pack.addProvider(UdModelGen::new);
 	}
 }
