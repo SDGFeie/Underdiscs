@@ -3,6 +3,7 @@ package net.sdgfeie.underdiscs.init;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
 import net.minecraft.item.MusicDiscItem;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -434,5 +435,7 @@ public class UDItems {
         return newItem;
     }
 
-    public static void resister() {}
+    public static void resister() {
+        DISCS.add(Items.JUKEBOX.getDefaultStack());
+    }
 }

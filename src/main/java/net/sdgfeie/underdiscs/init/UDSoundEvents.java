@@ -7,15 +7,15 @@ import net.minecraft.util.Identifier;
 import net.sdgfeie.underdiscs.Underdiscs;
 
 public class UDSoundEvents {
-    public static final SoundEvent MUSIC_DISC_001 = register("music_disc.01");
-    public static final SoundEvent MUSIC_DISC_002 = register("music_disc.02");
-    public static final SoundEvent MUSIC_DISC_003 = register("music_disc.03");
-    public static final SoundEvent MUSIC_DISC_004 = register("music_disc.04");
-    public static final SoundEvent MUSIC_DISC_005 = register("music_disc.05");
-    public static final SoundEvent MUSIC_DISC_006 = register("music_disc.06");
-    public static final SoundEvent MUSIC_DISC_007 = register("music_disc.07");
-    public static final SoundEvent MUSIC_DISC_008 = register("music_disc.08");
-    public static final SoundEvent MUSIC_DISC_009 = register("music_disc.09");
+    public static final SoundEvent MUSIC_DISC_001 = register("music_disc.001");
+    public static final SoundEvent MUSIC_DISC_002 = register("music_disc.002");
+    public static final SoundEvent MUSIC_DISC_003 = register("music_disc.003");
+    public static final SoundEvent MUSIC_DISC_004 = register("music_disc.004");
+    public static final SoundEvent MUSIC_DISC_005 = register("music_disc.005");
+    public static final SoundEvent MUSIC_DISC_006 = register("music_disc.006");
+    public static final SoundEvent MUSIC_DISC_007 = register("music_disc.007");
+    public static final SoundEvent MUSIC_DISC_008 = register("music_disc.008");
+    public static final SoundEvent MUSIC_DISC_009 = register("music_disc.009");
     public static final SoundEvent MUSIC_DISC_010 = register("music_disc.010");
     public static final SoundEvent MUSIC_DISC_011 = register("music_disc.011");
     public static final SoundEvent MUSIC_DISC_012 = register("music_disc.012");
