@@ -201,5 +201,6 @@
   "item.underdiscs.disc_100.desc": "Toby Fox - MEGALOVANIA",
   "item.underdiscs.disc_101": "Music Disc",
   "item.underdiscs.disc_101.desc": "Toby Fox - Good Night",
-  "item.underdiscs.disc_base": "Music Disc"
+  "item.underdiscs.disc_base": "Music Disc",
+  "menu.creative.underdiscs.discs": "Underlate Music Discs"
 }

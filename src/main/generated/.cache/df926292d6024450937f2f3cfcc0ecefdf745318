@@ -1,12 +1,12 @@
-// 1.20.1	2026-05-23T22:14:02.5045052	Underdiscs/Recipes
+// 1.20.1	2026-06-04T19:56:22.4683694	Underdiscs/Recipes
 ce0127697b2da3537ffe80059f22be151ff79b52 data\underdiscs\advancements\recipes\misc\disc_082.json
 09540c0e47209822421267a5eae5f822c46f023d data\underdiscs\recipes\disc_003.json
 63b953dfaf1e718657b38bed40ce657f13c18baa data\underdiscs\recipes\disc_048.json
 37338e248761e1b22d55747a7603bdb7b4965d98 data\underdiscs\advancements\recipes\misc\disc_096.json
 f368f77280fd0a039033ca5030c69ce10e1ffd53 data\underdiscs\recipes\disc_017.json
 c604502d37be5e31ca4fd1dfee40fb6b0d4bc00a data\underdiscs\recipes\disc_020.json
-fae2666f10d2c62520e99c7ce97da5d8680b71c5 data\underdiscs\advancements\recipes\misc\disc_065.json
 224831e172a365e3cd4ae59421c5a89cd4c81682 data\underdiscs\recipes\disc_065.json
+fae2666f10d2c62520e99c7ce97da5d8680b71c5 data\underdiscs\advancements\recipes\misc\disc_065.json
 f6044260b791ca9be7c0e591a81e25f1931df239 data\underdiscs\recipes\disc_079.json
 d79361c76e69b18d74f18c9ca84d4c300d6e375c data\underdiscs\recipes\disc_034.json
 e24871bcdd7ca4878b2f15aa76eba901f3788218 data\underdiscs\advancements\recipes\misc\disc_020.json
@@ -142,8 +142,8 @@ b00f6d5cc5700c9123d7a2009bd3e1857c8c2589 data\underdiscs\recipes\disc_083.json
 44f2e60307328d972d90365d900619d0d3257cb9 data\underdiscs\advancements\recipes\misc\disc_099.json
 dbed465873b950cb76ae9a21cc5252c48b6f6389 data\underdiscs\recipes\disc_037.json
 720050d19084a959d20d3f85d30af8e26c250741 data\underdiscs\advancements\recipes\misc\disc_068.json
-0c58cc870ba2c49b1ca627cd1a6dbe0c5039b0e2 data\underdiscs\advancements\recipes\misc\disc_023.json
 8b275243417e2e6711bdd35e4872d10c7e563d4a data\underdiscs\recipes\disc_028.json
+0c58cc870ba2c49b1ca627cd1a6dbe0c5039b0e2 data\underdiscs\advancements\recipes\misc\disc_023.json
 cc6ee3f3f6a95cef4d3914f9d5f6e320c2edb771 data\underdiscs\recipes\disc_076.json
 fadc72b6bbcbf576b81d201788e4999420a16407 data\underdiscs\recipes\disc_010_alt.json
 f3e427e49abc03242bac2e727adc260902197aad data\underdiscs\recipes\disc_031.json
@@ -202,8 +202,8 @@ bee3d6ffed7c9f8badf34b8cd2a3eda631d446b9 data\underdiscs\recipes\disc_077.json
 c5f4fccfb87cef7c9628d7bd739577f7f0551adc data\underdiscs\advancements\recipes\misc\disc_016.json
 cafd07127b6431103a7976549c6dc025bb25afbe data\underdiscs\advancements\recipes\misc\disc_069.json
 b53d550be9078cda5f0ccc400b21016d90f7fe36 data\underdiscs\advancements\recipes\misc\disc_025.json
-12bc63a14b05fd53e05dba5f25d62c33bf9c1823 data\underdiscs\recipes\disc_052.json
 acfe97b50dea8d5ae570000c2f0f4e1e3b56961f data\underdiscs\recipes\disc_049_alt.json
+12bc63a14b05fd53e05dba5f25d62c33bf9c1823 data\underdiscs\recipes\disc_052.json
 d989ae5c0c9eb27135794c7efc0b451f00f9f1a6 data\underdiscs\recipes\disc_071.json
 9152e43fc8c8e4be980f374b8b2f2ef4757106cb data\underdiscs\recipes\disc_058.json
 afa6a089fa2e12a75a30cac3f1f7a859bd648b4a data\underdiscs\advancements\recipes\misc\disc_092.json

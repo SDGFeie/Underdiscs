@@ -5,6 +5,7 @@ import net.fabricmc.fabric.api.datagen.v1.provider.FabricLanguageProvider;
 import net.minecraft.data.client.Models;
 import net.minecraft.item.ItemStack;
 import net.sdgfeie.underdiscs.Underdiscs;
+import net.sdgfeie.underdiscs.init.UDCreativeMenu;
 import net.sdgfeie.underdiscs.init.UDItems;
 
 public class UDLangGen extends FabricLanguageProvider {
@@ -17,6 +18,7 @@ public class UDLangGen extends FabricLanguageProvider {
         for (ItemStack discStack : UDItems.DISCS) {
             translationBuilder.add(discStack.getItem(), "Music Disc");
         }
+        translationBuilder.add("menu.creative.underdiscs.discs", "Underlate Music Discs");
 
         translationBuilder.add(UDItems.disc_001.getTranslationKey() + ".desc", "Toby Fox - Once Upon A Time");
         translationBuilder.add(UDItems.disc_002.getTranslationKey() + ".desc", "Toby Fox - Start Menu");

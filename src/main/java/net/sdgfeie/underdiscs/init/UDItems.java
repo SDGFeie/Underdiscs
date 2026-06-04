@@ -435,7 +435,5 @@ public class UDItems {
         return newItem;
     }
 
-    public static void resister() {
-        DISCS.add(Items.JUKEBOX.getDefaultStack());
-    }
+    public static void resister() {}
 }

@@ -1,4 +1,4 @@
-// 1.20.1	2026-05-23T22:14:02.5091486	Underdiscs/Model Definitions
+// 1.20.1	2026-06-04T19:56:22.4791624	Underdiscs/Model Definitions
 2925d6b6b97a6e844e47e225bd6aaf08e4b7cace assets\underdiscs\models\item\disc_044.json
 89e754944c83d492b7fb1bf9137046dd9df29172 assets\underdiscs\models\item\disc_089.json
 0c5da70bc7efb3a2b7373d5c8214c7eb2af61679 assets\underdiscs\models\item\disc_061.json
@@ -53,8 +53,8 @@ ada139dc80ec223d2fdcc0cfb075708d8cedaf0b assets\underdiscs\models\item\disc_043.
 aa2dd9cb5061786d32b6984c6cf00327ff96a5b1 assets\underdiscs\models\item\disc_062.json
 e02b19af87316cdee335eb09dc394a85d7b72298 assets\underdiscs\models\item\disc_083.json
 8829e0455e4bd296ee8c2637fc0398b34381224a assets\underdiscs\models\item\disc_097.json
-c5880a2fa91394fd9578ed075ac8dcbb828d9fe6 assets\underdiscs\models\item\disc_036.json
 503010777011de0112ec262b2fb29fb12c51f20e assets\underdiscs\models\item\disc_019.json
+c5880a2fa91394fd9578ed075ac8dcbb828d9fe6 assets\underdiscs\models\item\disc_036.json
 dd576ca32e2253606bd619454a98a034a8789633 assets\underdiscs\models\item\disc_052.json
 03580aae0f069fd67876b494d07280b96aa640e8 assets\underdiscs\models\item\disc_021.json
 dcba743ccd11af76225962ac3e6470063da57863 assets\underdiscs\models\item\disc_066.json
@@ -76,8 +76,8 @@ ce2fe682ac24ee618752f422c5b1b135a737acc0 assets\underdiscs\models\item\disc_034.
 b7ab8dbb6e16aca7ce19d13d7d536e90a0a3a6dd assets\underdiscs\models\item\disc_004.json
 4da3af6cad6cbe3af7fa4ea9e0b997d509884320 assets\underdiscs\models\item\disc_099.json
 3684d741934859cf8e7f58406681b0ead7259735 assets\underdiscs\models\item\disc_086.json
-3c80d69f68414c45f50b46163d86934130bdbbfa assets\underdiscs\models\item\disc_041.json
 8e8eb0798e789e0d68228858cc3cb9772d4ee79d assets\underdiscs\models\item\disc_047.json
+3c80d69f68414c45f50b46163d86934130bdbbfa assets\underdiscs\models\item\disc_041.json
 2b64e9a3e889d86d768f77fd21a624e7f371cf34 assets\underdiscs\models\item\disc_016.json
 af19563845ee33e3f5e2b90f0ae6f86874c8df5d assets\underdiscs\models\item\disc_080.json
 dd65d926aa7e4634f139a54b31b7c0aabbf15ec4 assets\underdiscs\models\item\disc_069.json
